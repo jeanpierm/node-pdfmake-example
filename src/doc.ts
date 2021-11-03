@@ -7,17 +7,17 @@ export const docDefinition: TDocumentDefinitions = {
       style: 'tableExample',
       table: {
         body: [
-          ['Hola ', 'Ya vi como generar'],
-          ['Emily', 'PDFs'],
+          ['1. Hola ', '3. De cómo generar'],
+          ['2. Este es un ejemplo', '4. PDFs'],
         ],
       },
     },
     {
-      text: 'Se usa una librería llamada pdfmake',
+      text: 'La librería se llama pdfmake',
       style: 'subheader',
     },
     {
-      text: 'Según vi es la lib. más popular para este tema con JavaScript, te paso el código fuente de este ejemplo',
+      text: 'Es la librería más popular para esta cuestión con JavaScript',
     },
   ],
   styles: {
