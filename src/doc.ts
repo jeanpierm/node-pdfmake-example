@@ -17,7 +17,7 @@ export const docDefinition: TDocumentDefinitions = {
       style: 'subheader',
     },
     {
-      text: 'Es la librería más popular para esta cuestión con JavaScript',
+      text: 'Es la librería más popular para esta cuestión con JavaScript!',
     },
   ],
   styles: {
